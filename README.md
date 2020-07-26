@@ -1,4 +1,4 @@
-Custom ini configuration files, Supplementary files (RadASM3 itself), etc.
+Custom ini configuration files, Supplementary files (RadASM2 and RadASM3 help files), etc.
 
 RadASM3 can be found here: https://bitbucket.org/obaby/radasm3.0-sourcecode/src/master/
 
